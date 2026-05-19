@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "51d7ed3c518af2e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed77fb66026d8267",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dfc49a69d756298",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1237fed259d7444f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c745b4d9b7c0a1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6618ad76ad24cefd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff0236e712d4d386",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d48e8795841c8cff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7393f146100b2e5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b76faf44481eea6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "25c8d1191e5be1fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f759c7aed26bb57f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f74c500c02fec958",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "78e12aaa79bc3087",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8a131d0c5599b9ac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0fd054cd79137ac7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2dfc49a69d756298",
+  "lastOpenFiles": [
+    "README.md",
+    "wiki/people/Friend A.md",
+    "wiki/projects/Watchlist App.md",
+    "wiki/projects/Technical Notes Tool.md",
+    "wiki/concepts/Coding Through Building.md",
+    "wiki/concepts/Project Focus and Consistency.md",
+    "wiki/concepts/Movie Content Ideas.md",
+    "wiki/Sample Personal Note.md",
+    "wiki/Granola Meeting Export.md",
+    "wiki/Notion Export.md",
+    "wiki/ChatGPT Export.md",
+    "raw/chatgpt-exports/sample-chatgpt-export.md",
+    "raw/chatgpt-exports/README.md",
+    "raw/claude-exports/sample-claude-chat.md",
+    "raw/granola-exports/sample-granola-notes.md",
+    "wiki/concepts/Making Money Through Technical Output.md",
+    "wiki/concepts/Distributed Systems Learning Strategy.md",
+    "wiki/concepts/Failure-Tolerant Design.md",
+    "wiki/concepts/Distributed Systems Reliability.md",
+    "wiki/Claude Conversation Export.md",
+    "wiki/Why Small Systems Fail in Big Ways.md",
+    "wiki/concepts/making-money-through-technical-output.md",
+    "wiki/concepts/distributed-systems-learning-strategy.md",
+    "wiki/concepts/failure-tolerant-design.md",
+    "wiki/concepts/distributed-systems-reliability.md",
+    "wiki/source-summary-claude-conversation-export.md",
+    "content",
+    "journal",
+    "wiki/projects",
+    "wiki/people",
+    "wiki/concepts",
+    "wiki",
+    "raw/notion-exports",
+    "raw/notes",
+    "raw/granola-exports",
+    "raw/claude-exports"
+  ]
+}
